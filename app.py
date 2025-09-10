@@ -35,8 +35,8 @@ except Exception:
 # ============== USER CONFIG (REEMPLAZA ESTAS CLAVES) ==============
 # -----------------------
 # PON TUS CLAVES AQUÍ PARA PRUEBAS (NO DEJES ESTAS KEYS EN REPO PÚBLICO)
-ALPACA_API_KEY = "PUT_YOUR_ALPACA_API_KEY_HERE"
-ALPACA_API_SECRET = "PUT_YOUR_ALPACA_API_SECRET_HERE"
+ALPACA_API_KEY = "PKDJUFMWG4B96P8J6NBF"
+ALPACA_API_SECRET = "6CZfns8SRqUBbbxBm7uJV4KQpwYXmLkxKYCb1w1i"
 # Base URL (paper/live)
 ALPACA_BASE_URL = "https://paper-api.alpaca.markets"  # dejar así para paper trading
 
